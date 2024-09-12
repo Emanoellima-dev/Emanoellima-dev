@@ -6,7 +6,7 @@
 
 #### link do repositório: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app).
 
-### confira este outro repositório onde esta o meu app de finanças:
+### confira tambem este outro repositório onde esta o meu app de finanças:
 
 #### link do repositório: [App-financas](https://github.com/Emanoellima-dev/App-financas)
 
