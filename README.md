@@ -3,7 +3,7 @@
 
 #### confira meu repositorio onde está meu primeiro app criado com react-native e expo:
 
-#### link do repositório [meu-primeiro-app](https://github.com/Emanoellima-dev/meu-primeiro-app).
+#### link do repositório [meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app).
 
 
 
