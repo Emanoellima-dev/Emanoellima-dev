@@ -1,9 +1,12 @@
 # ola eu sou Emanoel
 #### sou iniciante na area da programaçao estou estudando react-native para desenvolvimento mobile.
 
-### confira meu repositorio onde está meu primeiro app criado com react-native e expo:
+#### confira meu repositorio onde está meu primeiro app criado com react-native e expo:
 
-### link do repositório [meu-primeiro-app](https://github.com/Emanoellima-dev/meu-primeiro-app).
+#### link do repositório [meu-primeiro-app](https://github.com/Emanoellima-dev/meu-primeiro-app).
+
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
