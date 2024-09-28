@@ -4,7 +4,7 @@
 
 ### confira meu repositorio onde está meu primeiro app criado com react-native e expo:
 
-#### link do repositório: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app).
+#### link do repositorio: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app)
 
 ### confira tambem este outro repositório onde esta o meu app de finanças:
 
