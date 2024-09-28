@@ -6,6 +6,8 @@
 
 #### link do repositorio: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app)
 
+### confira este outro app que construi. clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
+
 ### confira tambem este outro repositório onde esta o meu app de finanças:
 
 #### link do repositório: [App-financas](https://github.com/Emanoellima-dev/App-financas)
