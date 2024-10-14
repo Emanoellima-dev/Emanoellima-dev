@@ -6,7 +6,9 @@
 
 #### link do repositorio: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app)
 
-### confira este outro app que construi. clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
+### confira estes dois aplicativos que construi usando a API TMDB.
+#### clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
+#### clique aqui: [App-filmes2](https://githu.com/Emanoellima-de/App-filmes2)
 
 ### confira tambem este outro repositório onde esta o meu app de finanças:
 
