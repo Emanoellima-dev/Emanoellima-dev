@@ -8,7 +8,7 @@
 
 ### confira estes dois aplicativos que construi usando a API TMDB.
 #### clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
-#### clique aqui: [App-filmes2](https://githu.com/Emanoellima-de/App-filmes2)
+#### clique aqui: [App-filmes2](https://github.com/Emanoellima-de/App-filmes2)
 
 ### confira tambem este outro repositório onde esta o meu app de finanças:
 
