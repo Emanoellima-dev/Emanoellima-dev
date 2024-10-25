@@ -1,10 +1,13 @@
 # ola eu sou Emanoel
 
-## sou iniciante na area da programaçao estou estudando react-native para desenvolvimento mobile.
+## sou iniciante na area da programaçao estou estudando React para desenvolvimento web.
 
-### confira meu repositorio onde está meu primeiro app criado com react-native e expo:
+### confira meu repositorio onde está meu projeto de um site de filmes:
 
-#### link do repositorio: [Meu-primeiro-app](https://github.com/Emanoellima-dev/Meu-primeiro-app)
+#### link do repositorio: [filmes-site](https://github.com/Emanoellima-dev/filmes-site)
+
+#### link do site que criei:
+[https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
 ### confira estes dois aplicativos que construi usando a API TMDB.
 #### clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
