@@ -4,10 +4,9 @@
 
 ### confira meu repositorio onde está meu projeto de um site de filmes:
 
-#### link do repositorio: [filmes-site](https://github.com/Emanoellima-dev/filmes-site)
+### link do repositorio: [filmes-site](https://github.com/Emanoellima-dev/filmes-site)
 
-#### link do site que criei:
-[https://site-filmes.onrender.com](https://site-filmes.onrender.com)
+### link do site que criei: [https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
 ### confira estes dois aplicativos que construi usando a API TMDB.
 #### clique aqui: [App-filmes](https://github.com/Emanoellima-dev/App-filmes)
