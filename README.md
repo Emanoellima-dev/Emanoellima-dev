@@ -18,6 +18,10 @@
 ### Confira Também Este outro Site Que Criei. Clique Aqui e Veja: [https://site-previsao.onrender.com](https://site-previsao.onrender.com)
 ### Link Do Repositório 👉: [site-previsao](https://github.com/Emanoellima-dev/site-previsao)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+#
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoellima-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+#
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
