@@ -4,7 +4,7 @@
 
 ## E-commerce
 
-### Confira este exemplo de um e-commerce que desenvolvi com o React e Mongodo paro o backend. o site Está hospedado no endereço: [https://e-commerce-site-aaxd.onrender.com](https://e-commerce-site-aaxd.onrender.com)
+### Confira este exemplo de um e-commerce que desenvolvi com o React e Mongodb paro o backend. o site Está hospedado no endereço: [https://e-commerce-site-aaxd.onrender.com](https://e-commerce-site-aaxd.onrender.com)
 
 ### Veja a explicação do site neste repositório 👉: [https://github.com/Emanoellima-dev/E-commerce-site](https://github.com/Emanoellima-dev/E-commerce-site)
 
