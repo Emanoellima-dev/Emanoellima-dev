@@ -8,7 +8,7 @@
 
 ### Veja a explicação do site neste repositório: [https://github.com/Emanoellima-dev/E-commerce-site](https://github.com/Emanoellima-dev/E-commerce-site)
 
-### confira o site que desenvolvi usando o React.
+### Confira este outro site que desenvolvi também usando o React.
 #### link do site: [https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
 ### confira meu repositorio onde está a explicaçao sobre como funciona o site:
