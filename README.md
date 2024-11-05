@@ -1,6 +1,13 @@
 # Olá Eu Sou Emanoel
 
-## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento de sites.
+## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento de sites. Confira abaixo os sites que já desenvolvi
+
+## E-commerce
+
+### Confira este exemplo de um e-commerce que desenvolvi com o React e Mongodo paro o backend. o site Está hospedado no endereço: [https://e-commerce-site-aaxd.onrender.com](https://e-commerce-site-aaxd.onrender.com)
+
+### Veja a explicação do site neste repositório 👉: [https://github.com/Emanoellima-dev/E-commerce-site](https://github.com/Emanoellima-dev/E-commerce-site)
+
 ### confira o site que desenvolvi usando o React.
 #### link do site: [https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
