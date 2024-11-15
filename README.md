@@ -1,6 +1,11 @@
 # Olá Eu Sou Emanoel
 
-## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento de sites. Confira abaixo os sites que já desenvolvi.
+## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento front en e backend. Confira abaixo os projetos que já desenvolvi.
+
+## API REST
+
+### API criada para gerenciar usuarios
+### link do repositorio da API: [API-REST](https://github.com/Emanoellima-de/API-REST)
 
 ## Site De Filmes
 ### Confira este site que desenvolvi usando o React.
