@@ -7,6 +7,12 @@
 ### link do repositório:
 ### [YOUTUBE-API](https://github.com/Emanoellima-dev/YOUTUBE-API)
 
+## GEMINI-API
+### API desenvolvida para interagir diretamente o com gemini e fazer perguntas.
+### repositório: 
+### [GEMINI-API](https://github.com/Emanoellima-dev/GEMINI-API)
+
+
 ## API REST
 ### API criada para gerenciar usuarios
 ### link do repositorio da API: [API-REST](https://github.com/Emanoellima-dev/API-REST)
