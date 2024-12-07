@@ -1,7 +1,11 @@
 # Olá Eu Sou Emanoel
 
-## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento front end e backend. Confira abaixo os projetos que já desenvolvi.
+## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento front-end e back-end. Recentemente ganhei um certificado da alura. Confira abaixo o meu certificado e em seguida os projetos que já desenvolvi.
 
+## MEU CERTIFICADO
+<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
+
+## PROJETOS 👇
 ## YOUTUBE-API
 ### Confira abaixo o repositório do meu projeto "YOUTUBE-API". criada com nodejs e express usando a API do youtube para buscar videos e exibir informaçoes.
 ### link do repositório:
