@@ -1,6 +1,6 @@
 # Olá Eu Sou Emanoel
 
-## Sou iniciante na area da programaçao estou estudando sobre o desenvolvimento front-end e back-end. Recentemente ganhei um certificado da alura. Confira abaixo o meu certificado e em seguida os projetos que já desenvolvi.
+## Sou iniciante na area da programaçao. estou estudando sobre o desenvolvimento back-end. Recentemente ganhei um certificado da alura. Confira abaixo o meu certificado e em seguida os projetos que já desenvolvi.
 
 ## MEU CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
@@ -21,7 +21,8 @@
 ### API criada para gerenciar usuarios
 ### link do repositorio da API: [API-REST](https://github.com/Emanoellima-dev/API-REST)
 
-## Site De Filmes
+## TAMBÉM JÁ CRIEI ALGUNS SITES SIMPLES, MAS MEU FOCO É O BACK-END.VEJA ABAIXO OS SITES SIMPLES QUE JÁ DESENVOLVI.
+## site de filmes
 ### Confira este site que desenvolvi usando o React.
 ### link do site: [https://site-filmes.onrender.com](https://site-filmes.onrender.com)
 
