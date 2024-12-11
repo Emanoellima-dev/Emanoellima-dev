@@ -6,6 +6,12 @@
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
 
 ## PROJETOS 👇
+
+## ANALISE-IMAGES-API
+### confira meu projeto de uma API que analisa e descreve qualquer imagem detalhadamente.
+### link do repositório:
+### [ANALISE-IMAGES-API](https://github.com/Emanoellima-dev/ANALISE-IMAGES-API)
+
 ## YOUTUBE-API
 ### Confira abaixo o repositório do meu projeto "YOUTUBE-API". criada com nodejs e express usando a API do youtube para buscar videos e exibir informaçoes.
 ### link do repositório:
