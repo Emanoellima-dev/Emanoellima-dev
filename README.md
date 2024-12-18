@@ -26,6 +26,8 @@
 ### API criada para gerenciar usuarios
 ### link do repositorio da API: [API-REST](https://github.com/Emanoellima-dev/API-REST)
 
+## Linguagens mais usadas
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoellima-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
