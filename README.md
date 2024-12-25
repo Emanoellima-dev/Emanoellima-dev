@@ -5,12 +5,17 @@
 ## COMPROVANTE DE INSCRIÇÃO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/comprovante_de_inscricao/comprovante_de_inscri%C3%A7%C3%A3o.jpg"/>
 
+## PROJETOS MySQL 👇
+### confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
+### link do repositório:
+### [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
+
 ## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
 
 ## MEU CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
 
-## PROJETOS 👇
+## OUTOS PROJETOS 👇
 
 ## ANALISE-IMAGES-API
 ### confira meu projeto de uma API que analisa e descreve qualquer imagem detalhadamente.
