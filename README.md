@@ -1,6 +1,6 @@
 # Olá Eu Sou Emanoel
 
-## Sou iniciante na area da programaçao. estou estudando sobre o desenvolvimento back-end. Recentemente ganhei um certificado da alura. Confira abaixo o meu certificado e em seguida os projetos que já desenvolvi.
+## Atualmente estou estudando sobre o banco de dados MySQL. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu comprovante de incrição os projetos que já desenvolvi.
 
 ## MEU CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
