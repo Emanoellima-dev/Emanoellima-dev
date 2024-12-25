@@ -1,6 +1,11 @@
 # Olá Eu Sou Emanoel
 
-## Atualmente estou estudando sobre o banco de dados MySQL. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu comprovante de incrição os projetos que já desenvolvi.
+## Atualmente estou estudando sobre o banco de dados MySQL. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu comprovante de incrição e os projetos que já desenvolvi.
+
+## COMPROVANTE DE INSCRIÇÃO
+<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/comprovante_de_inscricao/comprovante_de_inscri%C3%A7%C3%A3o.jpg"/>
+
+## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
 
 ## MEU CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
