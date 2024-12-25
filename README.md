@@ -1,4 +1,4 @@
-# Olá Eu Sou Emanoel
+# Olá Eu Sou Emanoel Lima
 
 ## Atualmente estou estudando sobre o banco de dados MySQL. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu comprovante de incrição e os projetos que já desenvolvi.
 
