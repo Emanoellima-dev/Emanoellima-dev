@@ -6,9 +6,13 @@
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/comprovante_de_inscricao/comprovante_de_inscri%C3%A7%C3%A3o.jpg"/>
 
 ## PROJETOS MySQL 👇
-### confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
+### Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
 ### link do repositório:
 ### [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
+
+### Confira também este outro projeto MySQL que simula uma análise de dados de uma empresa de venda de carros e peças.
+### Link do repositório
+### [classicmodels-sql-analysis](https://github.com/Emanoellima-dev/classicmodels-sql-analysis)
 
 ## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
 
