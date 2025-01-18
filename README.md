@@ -9,7 +9,7 @@
 
 ### Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
 ### Link do repositório
-### [https://github.com/Emanoellima-dev/Posto-de-Saude](posto-de-saude)
+### [Posto-de-saude](https://github.com/Emanoellima-dev/Posto-de-Saude)
 
 ### Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
 ### link do repositório:
