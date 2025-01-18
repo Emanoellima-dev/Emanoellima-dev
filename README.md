@@ -6,6 +6,11 @@
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/comprovante_de_inscricao/comprovante_de_inscri%C3%A7%C3%A3o.jpg"/>
 
 ## PROJETOS MySQL 👇
+
+### Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
+### Link do repositório
+### [https://github.com/Emanoellima-dev/Posto-de-saude](posto-de-saude)
+
 ### Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
 ### link do repositório:
 ### [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
