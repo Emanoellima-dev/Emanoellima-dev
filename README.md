@@ -11,6 +11,10 @@
 ### Link do repositório
 ### [Posto-de-saude](https://github.com/Emanoellima-dev/Posto-de-Saude)
 
+### Confira também este outro projeto MySQL que analisa dados de uma instituição acadêmica fictícia
+### Link do repositório
+### [escolaDB](https://github.com/Emanoellima-dev/escolaDB)
+
 ### Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
 ### link do repositório:
 ### [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
