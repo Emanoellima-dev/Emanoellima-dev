@@ -5,6 +5,8 @@
 ## CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"/>
 
+<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0001.jpg">
+
 ## PROJETOS MySQL 👇
 
 ### Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
