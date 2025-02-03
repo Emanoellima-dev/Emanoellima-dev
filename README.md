@@ -1,9 +1,9 @@
 # Olá Eu Sou Emanoel Lima
 
-## Atualmente estou estudando sobre o banco de dados MySQL. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu comprovante de incrição e os projetos que já desenvolvi.
+## Busco oportunidades para me ingressar no mercado de trabalho na area de banco de dados. Estou cursando "Administração De Banco De Dados". Confira abaixo o meu certificado e os projetos que já desenvolvi.
 
-## COMPROVANTE DE INSCRIÇÃO
-<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/comprovante_de_inscricao/comprovante_de_inscri%C3%A7%C3%A3o.jpg"/>
+## CERTIFICADO
+<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"/>
 
 ## PROJETOS MySQL 👇
 
