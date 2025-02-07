@@ -32,11 +32,6 @@
 
 ## OUTOS PROJETOS 👇
 
-## YOUTUBE-API
-### Confira abaixo o repositório do meu projeto "YOUTUBE-API". criada com nodejs e express usando a API do youtube para buscar videos e exibir informaçoes.
-### link do repositório:
-### [YOUTUBE-API](https://github.com/Emanoellima-dev/YOUTUBE-API)
-
 ## GEMINI-API
 ### API desenvolvida para interagir diretamente o com gemini e fazer perguntas.
 ### repositório: 
