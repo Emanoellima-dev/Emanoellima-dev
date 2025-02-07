@@ -30,14 +30,6 @@
 ## MEU CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
 
-## OUTOS PROJETOS 👇
-
-## API REST
-### API criada para gerenciar usuarios
-### link do repositorio da API: [API-REST](https://github.com/Emanoellima-dev/API-REST)
-
-## Linguagens mais usadas
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Emanoellima-dev&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+## GITHUB STATS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
