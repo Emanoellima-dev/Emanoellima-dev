@@ -1,7 +1,6 @@
 # Olá Eu Sou Emanoel Lima
 
 ## Busco oportunidades para me ingressar no mercado de trabalho na area de banco de dados. Recentemente conclui um curso de  "Administração De Banco De Dados". Confira abaixo o meu certificado e os projetos que já desenvolvi.
-SMPN3otEk7QrEpFhKGDXWb2aGbsGQ0at
 
 ## CERTIFICADO
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"/>
