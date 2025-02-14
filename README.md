@@ -9,21 +9,25 @@
 
 ## PROJETOS MySQL 👇
 
-### Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
-### Link do repositório
-### [Posto-de-saude](https://github.com/Emanoellima-dev/Posto-de-Saude)
+➡️ Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
+- Link do repositório:
+[Posto-de-saude](https://github.com/Emanoellima-dev/Posto-de-Saude)
 
-### Confira também este outro projeto MySQL que analisa dados de uma instituição acadêmica fictícia
-### Link do repositório
-### [escolaDB](https://github.com/Emanoellima-dev/escolaDB)
+➡️ Confira também este outro projeto MySQL que analisa dados de uma instituição acadêmica fictícia
+ - Link do repositório:
+[escolaDB](https://github.com/Emanoellima-dev/escolaDB)
 
-### Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
-### link do repositório:
-### [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
+➡️ Confira este repositório onde está o projeto de um sistema de gerenciamento de loja usando o MySQL.
+ - link do repositório:
+ [sistema_gerenciamento_loja](https://github.com/Emanoellima-dev/sistema_gerenciamento_loja)
 
-### Confira também este outro projeto MySQL que simula uma análise de dados de uma empresa de venda de carros e peças.
-### Link do repositório
-### [classicmodels-sql-analysis](https://github.com/Emanoellima-dev/classicmodels-sql-analysis)
+➡️ Confira também este outro projeto MySQL que simula uma análise de dados de uma empresa de venda de carros e peças.
+ - Link do repositório
+ [classicmodels-sql-analysis](https://github.com/Emanoellima-dev/classicmodels-sql-analysis)
+
+## PROJETO POSTGRESQL
+➡️ veja esse projeto acadêmico usando o banco de dados postresql que gerencia operações em uma pizzaria.
+- Link do repositório: [pizzaria-database](https://github.com/Emanoellima-dev/pizzaria-database/tree/main)
 
 ## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
 
