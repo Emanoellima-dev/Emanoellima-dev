@@ -25,9 +25,12 @@
  - Link do repositório
  [classicmodels-sql-analysis](https://github.com/Emanoellima-dev/classicmodels-sql-analysis)
 
-## PROJETO POSTGRESQL
+## PROJETOS POSTGRESQL
 ➡️ veja esse projeto acadêmico usando o banco de dados postresql que gerencia operações em uma pizzaria.
 - Link do repositório: [pizzaria-database](https://github.com/Emanoellima-dev/pizzaria-database/tree/main)
+
+➡️ Confira também este outro projeto postgresql que gerencia operações em um restaurante fictício.
+- Link do repositório: [restaurante-db](https://github.com/Emanoellima-dev/reataurante-db/tree/main)
 
 ## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
 
