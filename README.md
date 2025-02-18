@@ -60,9 +60,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wor
 <br/>
 <br/>
 <br/>
-<br/>
-<a href="https://www.linkedin.com/in/emanoel-lima-0ba44a276?trk=contact-info">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## PROJETOS MySQL 👇
 
