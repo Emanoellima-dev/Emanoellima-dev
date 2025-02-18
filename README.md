@@ -7,6 +7,15 @@
 
 <img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0001.jpg">
 
+## Tecnologias
+<img
+ align="left"
+ alt="SQL"
+ title="SQL"
+ width="30px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+
 ## PROJETOS MySQL 👇
 
 ➡️ Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
