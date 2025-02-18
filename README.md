@@ -41,12 +41,20 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
           
  <img
-  align="left"
+ align="left"
  alt="MySQL"
  title="MySQL"
  width="40px"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+
+<img
+ align="left"
+ alt="git"
+ title="git"
+ width="50px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wordmark.svg" />
           
 <br/>
 <br/>
