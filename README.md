@@ -3,18 +3,15 @@
 ## Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" e atualmente estudo power bi para análise de dados. Confira abaixo o meu certificado e os projetos que já desenvolvi.
 
 ## CERTIFICADO
-<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"/>
-
-<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0001.jpg">
-
-## Tecnologias
 <img
- align="left"
- alt="SQL"
- title="SQL"
- width="30px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+ width="300px"
+src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"
+ />
+
+<img 
+ width="300px"
+src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0001.jpg"
+ />
 
 ## PROJETOS MySQL 👇
 
@@ -49,3 +46,21 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/
 ## GITHUB STATS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
+
+<img
+ align="left"
+ alt="SQL"
+ title="SQL"
+ width="30px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+ />
+ 
+ <img
+ align="left"
+ alt="MySQL"
+ title="MySQL"
+ width="40px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
