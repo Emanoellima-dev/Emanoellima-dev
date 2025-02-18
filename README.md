@@ -1,6 +1,6 @@
-# Olá Eu Sou Emanoel Lima
+# Emanoel Lima De Freitas
 
-## Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" e atualmente estudo power bi para análise de dados. Confira abaixo o meu certificado e os projetos que já desenvolvi.
+Olá eu sou Emanoel tenho 19 anos e Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" no IFRS (instituto federal do rio grande do sul) e atualmente estudo power bi para análise de dados. Confira abaixo o meu certificado e os projetos que já desenvolvi.
 
 ## CERTIFICADO
 <img
