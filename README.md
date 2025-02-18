@@ -2,7 +2,13 @@
 
 Olá eu sou Emanoel tenho 19 anos e Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" no IFRS (instituto federal do rio grande do sul) e atualmente estudo power bi para análise de dados. Confira abaixo o meu certificado e os projetos que já desenvolvi.
 
-## CERTIFICADO
+## CERTIFICAÇÃO EM POWER BI
+<img
+width="300px"
+src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"
+/>
+
+## CERTIFICAÇÃO EM BANCO DE DADOS
 <img
  width="300px"
 src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0000.jpg"
