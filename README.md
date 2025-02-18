@@ -13,6 +13,38 @@ src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IM
 src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IMG-20250203-WA0001.jpg"
  />
 
+## TECNOLOGIAS
+<img
+ align="left"
+ alt="SQL"
+ title="SQL"
+ width="40px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+ />
+
+<img
+ align="left"
+ alt="MySQL"
+ title="MySQL"
+ width="40px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+
+
+<img
+ align="left"
+ alt="MySQL"
+ title="MySQL"
+ width="40px"
+ style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
+
+<br/>
+<br/>
+
 ## PROJETOS MySQL 👇
 
 ➡️ Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
@@ -31,6 +63,8 @@ src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IM
  - Link do repositório
  [classicmodels-sql-analysis](https://github.com/Emanoellima-dev/classicmodels-sql-analysis)
 
+<br/>
+
 ## PROJETOS POSTGRESQL
 ➡️ veja esse projeto acadêmico usando o banco de dados postresql que gerencia operações em uma pizzaria.
 - Link do repositório: [pizzaria-database](https://github.com/Emanoellima-dev/pizzaria-database/tree/main)
@@ -46,21 +80,3 @@ src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/IM
 ## GITHUB STATS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Emanoellima-dev&show_icons=true&theme=radical&hide=contribs,prs&show=discussions_answered)](https://github.com/anuraghazra/github-readme-stats)
-
-<img
- align="left"
- alt="SQL"
- title="SQL"
- width="30px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
- />
- 
- <img
- align="left"
- alt="MySQL"
- title="MySQL"
- width="40px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
-/>
