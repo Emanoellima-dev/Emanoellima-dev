@@ -40,19 +40,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-origi
 
 <img
  align="left"
- alt="MySQL"
- title="MySQL"
+ alt="postgresql"
+ title="Mpostgresql"
  width="40px"
  style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-          
- <img
- align="left"
- alt="MySQL"
- title="MySQL"
- width="40px"
- style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+       
 
 <img
  align="left"
@@ -93,11 +86,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-plain-wor
 
 ➡️ Confira também este outro projeto postgresql que gerencia operações em um restaurante fictício.
 - Link do repositório: [restaurante-db](https://github.com/Emanoellima-dev/restaurante-db/tree/main)
-
-## Também já conclui um curso básico de programação back-end. confira o certificado abaixo.
-
-## MEU CERTIFICADO
-<img src="https://github.com/Emanoellima-dev/Emanoellima-dev/blob/main/certificado/certificado.jpg" width="400" />
 
 ## GITHUB STATS
 
