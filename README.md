@@ -1,6 +1,6 @@
 # Emanoel Lima De Freitas
 
-Olá eu sou Emanoel tenho 19 anos e Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" no IFRS (instituto federal do rio grande do sul) e também conclui um curso básico de power bi para análise de dados. Confira abaixo o meu certificado e os projetos que já desenvolvi.
+Olá eu sou Emanoel tenho 19 anos e Busco oportunidades para me ingressar no mercado de trabalho na area de dados. Recentemente conclui um curso de  "Administração De Banco De Dados" no IFRS (instituto federal do rio grande do sul) e também conclui um curso básico de power bi para análise de dados. atualmente estudo python para analise de dados e já consegui construir meu primeiro deshboard com o pytho. Confira abaixo o meu certificado e os projetos que já desenvolvi.
 
 ## CERTIFICAÇÃO EM POWER BI
 <img
