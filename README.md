@@ -69,6 +69,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <br/>
 <br/>
 
+## DASHBOARD COM PYTHON
+➡️ Esse é meu primeiro dashboard de RH feito totalmente em python
+ - Link do repositório:
+[dashboard-RH](https://github.com/Emanoellima-dev/dashboard-RH/tree/main)
+
 ## PROJETOS MySQL 👇
 
 ➡️ Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
