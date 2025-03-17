@@ -69,10 +69,14 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 <br/>
 <br/>
 
-## DASHBOARD COM PYTHON
+## DASHBOARDS COM PYTHON
 ➡️ Esse é meu primeiro dashboard de RH feito totalmente em python
  - Link do repositório:
 [dashboard-RH](https://github.com/Emanoellima-dev/dashboard-RH/tree/main)
+
+➡️ Esse é mais um dashboard feito totalmente em python. é um dashboard de vendas
+ - Link do repositório
+   [vendas-dashboard](https://github.com/Emanoellima-dev/vendas-dashboard/tree/main)
 
 ## PROJETOS MySQL 👇
 
