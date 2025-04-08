@@ -72,6 +72,10 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
  - Link do repositório
    [vendas-dashboard](https://github.com/Emanoellima-dev/vendas-dashboard/tree/main)
 
+➡️ Veja também esse projeto de um dashboard de Finanças feito também em python.
+ - Link do repositório
+   [Dashboard-Financa](https://github.com/Emanoellima-dev/Dashboard-Financa)
+
 ## PROJETOS MySQL 👇
 
 ➡️ Confira Este projeto acadêmico de um banco de dados para gerenciar as operações de um posto de saúde fictício
