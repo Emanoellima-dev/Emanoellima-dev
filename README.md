@@ -74,7 +74,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-ori
 
 ➡️ Veja também esse projeto de um dashboard de Finanças feito também em python.
  - Link do repositório
-   [Dashboard-Financa](https://github.com/Emanoellima-dev/Dashboard-Financa)
+   [Dashboard-Financas](https://github.com/Emanoellima-dev/Dashboard-Financas)
 
 ## PROJETOS MySQL 👇
 
